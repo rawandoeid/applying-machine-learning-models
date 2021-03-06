@@ -1,0 +1,62 @@
+00:44:14	NAJWA ALSAADI:	1
+00:44:24	Maram Alsubaiei - DSI8:	no
+00:44:24	‏iPad ‏Waad:	no
+00:44:25	Hanan Almohammadi:	no
+00:44:29	Shahad Almangor:	no
+00:52:25	Aisha Hakami:	yes
+00:52:25	Mohammed Alali:	clear
+00:52:26	Reem Alruqi - DSI8:	yes clear
+00:52:28	Hanan Almohammadi:	yes
+00:52:30	Shahad Almangor:	yes
+00:52:31	‏iPad ‏Waad:	yes
+00:57:02	Aisha Hakami:	Now we r working on word lvl ?
+00:59:09	Aisha Hakami:	cool
+00:59:09	NAJWA ALSAADI:	clear
+00:59:15	Shahad Almangor:	clear
+00:59:25	‏iPad ‏Waad:	very clear
+00:59:28	Abeer Alzuhair:	Clear
+00:59:35	NohaZamaan DSI8:	yes
+01:00:12	‏iPad ‏Waad:	robotic things  -
+01:00:31	Aisha Hakami:	Tv scripts
+01:00:35	Shahad Almangor:	search decument
+01:00:38	Aisha Hakami:	Boot chat ?
+01:00:48	‏iPad ‏Waad:	when we creat a chatbot for example
+01:01:10	Reem Alruqi - DSI8:	way to understand human sentences  meaning ?
+01:01:32	Abdulaziz Alsulami:	Customers feedback
+01:01:37	Reem Alruqi - DSI8:	classification ?
+01:02:13	Aisha Hakami:	Positive or negative review
+01:03:45	NAJWA ALSAADI:	yes
+01:06:09	A Adam:	yes
+01:08:36	‏iPad ‏Waad:	yes
+01:08:39	Shahad Almangor:	yes clear
+01:11:51	‏iPad ‏Waad:	can we use both in same. time
+01:12:06	‏iPad ‏Waad:	lmma&stem
+01:14:18	Shahad Almangor:	no clear
+01:14:18	Aisha Hakami:	Wait
+01:14:25	Mohammed Al-Hamad:	yes clear
+01:16:02	‏iPad ‏Waad:	yes but (Nino  in lama) then we do stem how it will be look like nin the end of it not match
+01:21:19	Aisha Hakami:	This class is amazing I am learning so much thank you mukesh!!
+01:22:44	Abrar Almaskeen:	How can you utilize those to build VA? Just curious
+01:22:51	NAJWA ALSAADI:	clearthank you Mukesh
+01:22:54	Maha:	Again this part please
+01:22:55	Abrar Almaskeen:	Virtual assistant
+01:23:07	Shahad Almangor:	clear thank you
+01:25:35	Abrar Almaskeen:	Great! Thx
+01:25:46	Aisha Hakami:	Ooh that is good example
+01:26:00	‏iPad ‏Waad:	no clear
+01:26:37	Aisha Hakami:	NLP sounds hard
+01:26:38	Maha:	What is mean of DT ,VBS in last example?
+01:27:56	Hanan Almohammadi:	DT =determiner  ,VB verb
+02:40:15	Mohammed Alali:	clear
+02:40:15	Maha:	clear
+02:40:16	Reem Alruqi - DSI8:	clear
+02:40:21	‏iPad ‏Waad:	no
+02:40:23	Shahad Almangor:	clear
+02:45:27	Alqatari, Hussain Nabeel M:	Sounds good!
+02:45:31	Abdulaziz Alsulami:	Thank you
+02:45:32	Smouh:	Clear thank you
+02:45:33	A Adam:	thank you
+02:45:34	Shahad Almangor:	clear
+02:45:37	NAJWA ALSAADI:	thank you Mukesh
+02:45:41	Shahad Almangor:	thank you
+02:45:43	Maria Ibraheam:	Clear , Thank you
